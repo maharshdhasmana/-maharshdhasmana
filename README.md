@@ -1,3 +1,4 @@
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Geeks/>!</h1>
 # 💫 About Me:
 <img align="right" alt="codingGuy" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 🔭  I'm currently working on my own portfolio website i.e www.maharshdhasmana.com<br><br>🌱 I'm currently learning MERN from Masai School<br><br>💬 Ask me about everything related to tech.<br><br>⚡ Fun fact i love Linux and would prefer it any day over windows
