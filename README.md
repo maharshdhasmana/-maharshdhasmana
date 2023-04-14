@@ -1,5 +1,6 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Geeks/>!</h1>
-# 💫 About Me:
+<h4 align=center>Hey there, welcome to my GitHub profile! 👋 I'm a full stack web developer 💻 with a knack for creating amazing web applications 🌟. Whether it's designing a stunning front-end or developing a rock-solid back-end, I'm always up for a challenge! 🚀 So, come check out my projects and let's build something awesome together! 💪</h4>
+<h2> 🙋‍♂️ About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 40px> </h2>  
 <img align="right" alt="codingGuy" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 🔭  I'm currently working on my own portfolio website i.e www.maharshdhasmana.com<br><br>🌱 I'm currently learning MERN from Masai School<br><br>💬 Ask me about everything related to tech.<br><br>⚡ Fun fact i love Linux and would prefer it any day over windows
 
